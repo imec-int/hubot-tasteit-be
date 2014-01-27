@@ -1,0 +1,23 @@
+{
+  "name": "hubot-tasteit-be",
+  "version": "0.0.1",
+  "description": "taste-it-gent.be script for Hubot",
+  "keywords": [
+    "hubot",
+    "broodjes",
+    "sandwiches"
+  ],
+  "author": "Sam Decrock / mixbe",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mixbe/hubot-tasteit-be"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "main": "scripts/index.coffee",
+  "dependencies": {
+    "hubot": ">= 2.4.0",
+    "cheerio" : "*",
+    "scoped-http-client" : "*"
+  }
+}
