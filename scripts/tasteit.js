@@ -1,8 +1,8 @@
 // Commands:
-//   broodje van de week
-//   wat is het broodje van de week?
-//   broodjes
-//   wat ligt er op <broodje>?
+//   hubot broodje van de week
+//   hubot wat is het broodje van de week?
+//   hubot broodjes
+//   hubot wat ligt er op <broodje>?
 
 /*
 Copyright (c) 2013 MiX
